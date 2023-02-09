@@ -1,6 +1,6 @@
 <template>
   <div class="navbar bg-base-100">
-    <div class="flex">
+    <div class="flex-1">
       <a class="btn btn-ghost text-xl">DagDocMed</a>
     </div>
     <div class="flex-none">
