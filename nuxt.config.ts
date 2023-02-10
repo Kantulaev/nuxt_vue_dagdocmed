@@ -2,6 +2,7 @@ export default defineNuxtConfig({
   modules: ['@nuxtjs/tailwindcss'],
   app: {
     head: {
+      htmlAttrs: { lang: 'ru' },
 
       title: 'DagDocMed - ДагДокМед',
       meta: [{ name: 'description', content: 'Доказательная медицина в Дагестане' }, {

@@ -1,5 +1,5 @@
 <template>
-  <footer class="footer footer-center p-10 bg-base-200 text-base-content rounded">
+  <footer class="p-10 rounded footer footer-center bg-base-200 text-base-content">
     <div class="grid grid-flow-col gap-4">
       <a class="link link-hover">About us</a>
       <a class="link link-hover">Contact</a>
@@ -26,7 +26,7 @@
       </div>
     </div>
     <div>
-      <p>Copyright © 2023 - All right reserved by ACME Industries Ltd</p>
+      <p>Copyright © 2023 - Все права защищены "DagDocMed"</p>
     </div>
   </footer>
 </template>
