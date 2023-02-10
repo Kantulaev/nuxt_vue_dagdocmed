@@ -3,6 +3,7 @@ export default defineNuxtConfig({
   app: {
     head: {
       htmlAttrs: { lang: 'ru' },
+      charset: 'utf-8',
 
       title: 'DagDocMed - ДагДокМед',
       meta: [{ name: 'description', content: 'Доказательная медицина в Дагестане' }, {
